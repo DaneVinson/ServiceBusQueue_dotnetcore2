@@ -3,6 +3,7 @@
     "Alpha": "SomeConnectionString"
   },
   "ServiceBus": {
+    "ConnectionString": "{sb_connection_string}",
     "MaxConcurrentReads": 10,
     "QueueName": "jobqueue",
     "ReceiveMode": "PeekLock"
