@@ -1,0 +1,1 @@
+Reference project for Azure Service Bus Queue with dotnet core 2.

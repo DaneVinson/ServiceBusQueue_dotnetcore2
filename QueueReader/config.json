@@ -1,0 +1,10 @@
+﻿{
+  "ConnectionStrings": {
+    "Alpha": "SomeConnectionString"
+  },
+  "ServiceBus": {
+    "MaxConcurrentReads": 10,
+    "QueueName": "jobqueue",
+    "ReceiveMode": "PeekLock"
+  }
+}
